@@ -1,0 +1,104 @@
+
+
+.Conteiner {
+    
+    position: relative;
+
+  }
+
+.Centro{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+  }
+.photo{
+    width: 100%;
+    height: auto;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+p{
+        font-weight: 400;
+        position: relative;
+        margin-left: 140px;
+        margin-top: 80px;
+        margin-right: 140px;
+        margin-bottom: 80px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 30px;
+        color: grey;
+        
+  }
+
+.Directions{
+
+    font-weight: 400;
+    position: relative;
+    margin-left: 140px;
+    margin-top: 80px;
+    margin-right: 140px;
+    margin-bottom: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: grey;
+  }
+
+.Directions > h1{
+
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.Directions > ul{
+
+    list-style-type: none;
+
+}
+
+.Lista > ul{
+
+    list-style-type: square;
+
+}
+
+.Lista{
+
+    font-weight: 400;
+    position: relative;
+    margin-left: 140px;
+    margin-top: 80px;
+    margin-right: 140px;
+    margin-bottom: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: grey;
+
+}
+
+.Lista > h1{
+
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.line1{
+
+    border: 2px solid gray;
+    margin-left: 140px;
+    margin-right: 140px;
+
+}
